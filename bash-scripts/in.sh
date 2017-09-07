@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "service name"
+echo "package name"
 read service
 echo "installing $ package"
 sudo apt-get update
